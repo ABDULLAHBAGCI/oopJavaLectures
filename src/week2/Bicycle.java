@@ -7,7 +7,7 @@ public class Bicycle {
         public int gear;
         public int speed;
         // the Bicycle class has
-// one constructor
+        // one constructor
         public Bicycle(int startCadence, int startSpeed, int startGear)
         {
             gear = startGear;
