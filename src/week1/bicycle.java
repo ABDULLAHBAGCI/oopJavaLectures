@@ -11,7 +11,8 @@ public class bicycle {
         gear = newValue;
     }
     void speedUp(int increment) {
-        speed = speed + increment;}
+        speed = speed + increment;
+    }
 
     void applyBrakes(int decrement) {
         speed = speed - decrement;
